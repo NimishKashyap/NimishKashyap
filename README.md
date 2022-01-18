@@ -1,4 +1,14 @@
-### console.log('Hello World'); //Semicolon friendly :)
+## console.log('Hello World! Nimish here!');                     //Semicolon friendly :)
+
+<br/>
+<h3 align="center" style="color:yellow;">Who am I?</h3>  
+ <div align="center">
+
+  🤖 Sophomore at Vellore Institute of Technology, Chennai (CSE-AI/Robotics)
+<br> 👨🏻‍🎓 Full-Stack Developer + Backend Engineer at GDSC VITC
+<br> 👨‍💼 Management committee member + Developer at Technocrats Robotics
+<br> 🤩 nimish = useOpenSourceHook({enthusiamLevel: Legend}) &nbsp; &nbsp; (Very bad joke for conveying "Hooked by open source")
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
