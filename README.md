@@ -5,7 +5,7 @@
 
 <h3 align="center" style="color:yellow;">Who am I?</h3>  
  <div align="center">
-  🤖 Sophomore at Vellore Institute of Technology, Chennai (CSE-AI/Robotics)
+  🤖 Student @Vellore Institute of Technology, Chennai (CSE-AI/Robotics)
 <br> 👨🏻‍🎓 Full-Stack Developer + Backend Engineer at GDSC VITC
 <br> 👨‍💼 Management committee member + Developer at Technocrats Robotics
 <br> 🤩 nimish = useOpenSourceHook({enthusiamLevel: Legend}) &nbsp; &nbsp; (Very bad joke for conveying "Hooked by open source")
