@@ -1,4 +1,4 @@
-# console.log('Hello World! Nimish here!');                     //Semicolon friendly :)
+# console.log('Hello World! Nimish here!');         
 
 <br/>
 
@@ -8,27 +8,35 @@
   🤖 Student @Vellore Institute of Technology, Chennai (CSE-AI/Robotics)
 <br> 👨🏻‍🎓 Full-Stack Developer + Backend Engineer at GDSC VITC
 <br> 👨‍💼 Management committee member + Developer at Technocrats Robotics
-<br> 🤩 nimish = useOpenSourceHook({enthusiamLevel: Legend}) &nbsp; &nbsp; (Very bad joke for conveying "Hooked by open source")
+<br> 🤩 nimish = useOpenSourceHook({enthusiamLevel: Legend})
+ <h4>Contributor to Minikube </h4>
 </div>
 
 <h3 align="center">Skills and competencies: </h3>
 <div align="center"> 
 <img src="https://img.shields.io/badge/mongo-mongodb-green"/>
-<img src="https://img.shields.io/badge/C%2B%2B-CPP-red"/>
+<img src="https://img.shields.io/badge/Type-Script-blue"/>
+ <img src="https://img.shields.io/badge/Next-JS-green"/>
 <img src="https://img.shields.io/badge/JS-JavaScript-blue"/>
 <img src="https://img.shields.io/badge/React-Front--End-success"/>
 <img src="https://img.shields.io/badge/Express-Backend--End-orange"/>
+ <img src="https://img.shields.io/badge/Communication-Skill-blue" />
+ <br />
+ <img src="https://img.shields.io/badge/Microservice-Arc-red" />
 <img src="https://img.shields.io/badge/System-Architecture-lightgrey"/>
-<img src="https://img.shields.io/badge/Communication-Skill-blue" />
+ <img src="https://img.shields.io/badge/kubernetes-k8s-blue" />
+ <img src="https://img.shields.io/badge/Docker-container-blue" />
 </div>
 <br>
 <h3 align="center">Currently Learning: </h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Type-Script-blue"/>
-<img src="https://img.shields.io/badge/Next-JS-green"/>
+
+<img src="https://img.shields.io/badge/GO-Lang-blue"/>
 <img src="https://img.shields.io/badge/Nest-JS-red"/>
 <img src="https://img.shields.io/badge/React-Native-informational"/>
-</div>
+</div>]
+
+[![@nimishkashyap's Holopin board](https://holopin.me/nimishkashyap)](https://holopin.io/@nimishkashyap)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
