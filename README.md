@@ -9,7 +9,7 @@
 <br> 👨🏻‍🎓 Full-Stack Developer + Backend Engineer at GDSC VITC
 <br> 👨‍💼 Management committee member + Developer at Technocrats Robotics
 <br> 🤩 nimish = useOpenSourceHook({enthusiamLevel: Legend})
- <h4>Contributor to Minikube </h4>
+ <h1>Contributor to Minikube </h1>
 </div>
 
 <h3 align="center">Skills and competencies: </h3>
